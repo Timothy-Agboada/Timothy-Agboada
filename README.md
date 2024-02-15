@@ -10,6 +10,6 @@
 
 On a personal note, I love soccer, music and travel.
 
-🌐 [Connect with me on LinkedIn] (https://www.linkedin.com/in/timothy-agboada-290603bb/)
+🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/timothy-agboada-290603bb/)
 
 I am always open to questions or contributions concerning any of my repos!
